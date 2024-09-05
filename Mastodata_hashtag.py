@@ -6,6 +6,7 @@
 #| |  | | (_| \__ \ || (_) | (_| | (_| | || (_| | #
 #\_|  |_/\__,_|___/\__\___/ \__,_|\__,_|\__\__,_| #
 ################################################### 
+# written by Alexander Martin and Marcus Burkhardt #
 ##############################################################################
 # This script retrieves posts from the hashtag timeline of mastodon. Two     #
 # different methods of data collection are possible. However, both methods   #
