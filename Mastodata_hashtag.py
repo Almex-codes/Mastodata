@@ -73,7 +73,8 @@ instances = []
 
 ### Params for the retrieval of older posts.
 utc=pytz.UTC
-#Insert starting point for requesting older posts. 
+# Insert starting point for requesting older posts.
+# Insert date like this 'YYYY-MM-DD'
 start_date = '2024-06-20'
 since = parser.parse(start_date)
 since = utc.localize(since)
