@@ -62,8 +62,9 @@ retrieve_old_timeline_hashtag = True
 
 ### Insert hashtags, according to the example given. ## 
 ### Works with one as well as multiple hashtags. ######
+### Insert hashtags like this ['tag1', 'tag2', ...] ## 
 
-hashtags = ['#NAFO']
+hashtags = []
 
 # Please enter desired Mastodon instances domain. All instances must be inside 
 # the brackets and each of them in quotes.
